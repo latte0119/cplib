@@ -1,7 +1,7 @@
 #define PROBLEM "https://judge.yosupo.jp/problem/unionfind"
 #include <iostream>
 
-#include "src/data-structure/UnionFindTree.hpp"
+#include "data-structure/UnionFindTree.hpp"
 
 using namespace std;
 
