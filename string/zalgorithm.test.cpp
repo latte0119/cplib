@@ -1,3 +1,4 @@
+#define PROBLEM "https://judge.yosupo.jp/problem/zalgorithm"
 #include <bits/stdc++.h>
 
 #include "string/zalgorithm.hpp"
